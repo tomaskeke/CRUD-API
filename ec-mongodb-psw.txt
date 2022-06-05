@@ -1,3 +1,0 @@
-DgCXb1ZX0G73thdV
-
-mongodb+srv://TomasEkDB:DgCXb1ZX0G73thdV@ec-express-api-db.qvyi0.mongodb.net/?retryWrites=true&w=majority
